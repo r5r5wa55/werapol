@@ -1,0 +1,50 @@
+
+.Navbar{
+   height: 5rem;
+   width: 100vw;
+   max-width: 75rem;
+   margin: 0 auto;
+   padding: 1rem 2rem;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   top: 0;
+   color: white;
+
+}
+
+
+
+.card{
+    margin-right: 2rem; 
+    cursor: pointer;
+
+
+}
+.card:hover{
+    color: yellow;
+    padding-bottom: 5px;
+    border-bottom: 2px solid yellow;
+
+}
+
+.iconfausercheck{
+    font-size: 18px;
+    margin-right: 10px;
+}
+
+
+
+
+.btnright{
+    background-color: white;
+    padding: 1rem 2rem;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    border-radius: 32px;
+    justify-content: center;
+}
+.btnright:hover{
+    cursor: pointer;
+}
